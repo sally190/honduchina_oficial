@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+ 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menú</title>
+    
+</head>
+    <body style="background-color: #562020;">  
+        <!-- Fondo color -->
+    </body>
+
+    
+    <h1 style="text-align: center; font-size: 65px; color: #e59a29; margin-top: 50px;"> 
+        <img src="decoracion 2.png"style= "width: 250px; height: 150px; margin-top: 0px; margin-left: -0px; ">Menú
+        <img src="decoracion.png"style= "width: 250px; height: 150px; margin-top: 0px; margin-left: -5px; "></h1>
+    <hr color= "#e59a29"; hr style="width:70%">
+<p> 
+            <!-- imagenes -->
+
+            <img src="arrooz.jpg"style= "width: 270px; height: 250px; border-radius: 500px; margin-bottom: 100px; ">
+            <img src="fondo.jpg"style= "width: 350px; height: 450px; margin-left: 199px; margin-top: 120px; ">
+            <img src="fondo3.jpg"style= "width: 350px; height: 450px; margin-left: 398px; margin-top: 120px; ">
+            <img src="chop.jpg"style= "width: 270px; height: 250px; margin-left: 90px; border-radius: 500px; margin-bottom: 100px; "> <br>
+
+        </br> <hr color="#e59a29"; hr style="width:70%;  margin-top: 125px;"> <br>
+        <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h2 style="text-align: center; font-size: 65px; color: #e59a29; margin-bottom: 60px; margin-top: -50px;">
+        <img src="decoracion 2.png"style= "width: 250px; height: 150px; margin-top: 0px; margin-left: -0px; ">Menú
+        <img src="decoracion.png"style= "width: 250px; height: 150px; margin-top: 0px; margin-left: -5px; "></h2> 
+    
+        <hr color="#e59a29"; hr style="width:70%; margin-bottom: -100px;">  
+            <!-- imagenes -->
+
+            <img src="mixto.jpg"style= "width: 270px; height: 250px; border-radius: 500px; margin-bottom: 300px">
+            <img src="fondo2.jpg"style= "width: 350px; height: 450px; margin-left: 199px; margin-top: 220px; margin-bottom: 200px; ">
+            <img src="fondo4.jpg"style= "width: 350px; height: 450px; margin-left: 398px; margin-top: 220px; margin-bottom: 200px; ">
+            <img src="veg.jpg"style= "width: 270px; height: 250px; margin-left: 90px; border-radius: 500px; margin-bottom: 300px; "> <br>
+
+        </br> <hr color="#e59a29"; hr style="width:70%; margin-top: -100px;">
+        <br>
+        <br>
+        <br>
+        
+     
+
+    </body>
+    </html>
+
