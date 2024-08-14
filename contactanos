@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+ 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contactanos</title>
+    
+</head>
+
+<body style="background-color: #562020;">  
+    <!-- Fondo color -->
+</body>
+
+<h1 style="text-align: center; font-size: 90px; color: #e59a29; margin-top: 330px; margin-left: -600px;">  ¡¡Ponte en <br> contacto con <br> nosotros!!</h1> </br>
+
+<img src="chinito.png"style= "width: 600px; height: 700px; margin-top: -600px; margin-left: 1200px; ">
+
+<h2 style="text-align: center; font-size: 35px; color: white; margin-left: 950px; margin-bottom: 100px; margin-top: -250px;">
+     Barrio las flores dos cuadras abajo de <br>​la casa de la cultura | 3215-4262 </h2> 
+
+     <h2 style="text-align: center; font-size: 35px; color: rgba(255, 0, 106, 0.459); margin-left: 750px; margin-bottom: 100px; margin-top: -50px;">
+        honduchina504@gmai​l </h2> 
+
+        <a href="https://www.facebook.com/profile.php?id=100083311008448&mibextid=ZbWKwL"> <img src="facebook.png"style= 
+            "width: 50px; height: 50px; margin-top: -200px; margin-left: 1650px; margin-bottom: 115px; "> </a>
+
+        </body>
+        </html>    
